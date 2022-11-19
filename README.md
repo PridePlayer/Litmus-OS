@@ -1,4 +1,4 @@
-# Litmus-OS
+# Litmus OS
 
 由于Litmus OS第一方发行版停止更新，我们在此进行社区开源，欢迎任何人进一步开发，制作发行版。
 
@@ -21,3 +21,6 @@ Litmus OS 2002：https://github.com/PridePlayer/Litmus-OS-2002
 Litmus OS Pluto：https://github.com/PridePlayer/Litmus-OS-Pluto   
 Litmus OS Pluto+：https://github.com/PridePlayer/Litmus-OS-Pluto-Plus   
 Litmus OS Pluto Neptune：https://github.com/PridePlayer/Litmus-OS-Pluto-Neptune   
+
+附上Litmus OS停止更新通知：
+![image](https://user-images.githubusercontent.com/56110713/202855825-06318637-2f29-4111-a00b-0f58b3a9e214.png)
