@@ -22,5 +22,5 @@ Litmus OS Pluto：https://github.com/PridePlayer/Litmus-OS-Pluto
 Litmus OS Pluto+：https://github.com/PridePlayer/Litmus-OS-Pluto-Plus   
 Litmus OS Pluto Neptune：https://github.com/PridePlayer/Litmus-OS-Pluto-Neptune   
 
-附上Litmus OS停止更新通知：（勘误，通知中“Litmus OS Pluto March”实际上应为Litmus OS Pluto+，“Litmus OS Pluto+”实际上应为Litmus OS Pluto Neptune。
+附上Litmus OS停止更新通知：（勘误，通知中“Litmus OS Pluto March”实际上应为Litmus OS Pluto+，“Litmus OS Pluto+”实际上应为Litmus OS Pluto Neptune）
 ![image](https://user-images.githubusercontent.com/56110713/202855825-06318637-2f29-4111-a00b-0f58b3a9e214.png)
